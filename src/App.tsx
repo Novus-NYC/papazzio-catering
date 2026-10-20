@@ -1045,7 +1045,7 @@ function SiteFooter() {
           <a className="footer-cta" href="/contact">Start Planning</a>
           <p className="footer-credit">
             Made by{' '}
-            <a className="volta-link" href="https://www.novusnyc.org/" rel="noreferrer" target="_blank">
+            <a className="novus-link" href="https://www.novusnyc.org/" rel="noreferrer" target="_blank">
               Novus
             </a>
           </p>

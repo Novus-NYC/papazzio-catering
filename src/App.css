@@ -1569,7 +1569,7 @@
   text-transform: uppercase;
 }
 
-.footer .volta-link {
+.footer .novus-link {
   display: inline;
   margin: 0;
   color: #F6B78D;
@@ -1577,7 +1577,7 @@
   text-transform: none;
 }
 
-.footer .volta-link:hover {
+.footer .novus-link:hover {
   color: #F6B78D;
 }
 
